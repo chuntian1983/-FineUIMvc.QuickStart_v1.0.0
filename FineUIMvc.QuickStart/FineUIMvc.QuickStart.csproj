@@ -123,6 +123,8 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\NewsType.cs" />
+    <Compile Include="Models\NewsTypeDbcontext.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Models\StudentDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
